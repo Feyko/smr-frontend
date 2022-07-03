@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-d3841bbd.js",
+    "file": "start-e22c673e.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -42,7 +42,7 @@
     ]
   },
   "src/routes/__layout.svelte": {
-    "file": "pages/__layout.svelte-19586ad0.js",
+    "file": "pages/__layout.svelte-116549ce.js",
     "src": "src/routes/__layout.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -66,7 +66,7 @@
       "src/lib/thirdparty/custom_protocol.ts"
     ],
     "css": [
-      "assets/pages/__layout.svelte-07e79796.css"
+      "assets/pages/__layout.svelte-97f33427.css"
     ]
   },
   ".svelte-kit/runtime/components/error.svelte": {
@@ -286,7 +286,7 @@
     ]
   },
   "src/routes/index.svelte": {
-    "file": "pages/index.svelte-b82fb6ee.js",
+    "file": "pages/index.svelte-2da49f5b.js",
     "src": "src/routes/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -296,7 +296,7 @@
       "_graphql-587ea9ba.js",
       "_MetaDescriptors-51ef3627.js",
       "_FicsitCard-7d9781f6.js",
-      "_ModCard-0bc16eb8.js",
+      "_ModCard-4c584b11.js",
       "_paths-396f020f.js",
       "_global-04fbeec3.js",
       "_stores-b24fbbcb.js",
@@ -304,7 +304,7 @@
       "_singletons-d1fb5791.js",
       "_launcher-83e1142f.js",
       "_formatting-f0380eae.js",
-      "_OutdatedBanner-187ee946.js"
+      "_CompatibilityButton-d290643c.js"
     ],
     "css": [
       "assets/pages/index.svelte-26ffeaff.css"
@@ -333,7 +333,7 @@
     ]
   },
   "src/routes/mod/[modId]/index.svelte": {
-    "file": "pages/mod/_modId_/index.svelte-dd96b696.js",
+    "file": "pages/mod/_modId_/index.svelte-5f6bd422.js",
     "src": "src/routes/mod/[modId]/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -343,10 +343,10 @@
       "_graphql-587ea9ba.js",
       "_routing-689f9c1f.js",
       "_formatting-f0380eae.js",
+      "_CompatibilityButton-d290643c.js",
       "_api-914d5f30.js",
       "_user-aa766597.js",
       "_paths-396f020f.js",
-      "_OutdatedBanner-187ee946.js",
       "_markdown-f8c8918c.js",
       "_forms-a767280e.js",
       "_launcher-83e1142f.js",
@@ -451,14 +451,14 @@
     ]
   },
   "src/routes/mods/index.svelte": {
-    "file": "pages/mods/index.svelte-e88b78d6.js",
+    "file": "pages/mods/index.svelte-b0c30e25.js",
     "src": "src/routes/mods/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-71586dff.js",
       "_graphql-587ea9ba.js",
-      "_ModCard-0bc16eb8.js",
+      "_ModCard-4c584b11.js",
       "_PageControls-bcea2d9e.js",
       "_paths-396f020f.js",
       "_forms-a767280e.js",
@@ -470,7 +470,7 @@
       "_MetaDescriptors-51ef3627.js",
       "_launcher-83e1142f.js",
       "_formatting-f0380eae.js",
-      "_OutdatedBanner-187ee946.js",
+      "_CompatibilityButton-d290643c.js",
       "_singletons-d1fb5791.js"
     ],
     "css": [
@@ -602,7 +602,7 @@
     ]
   },
   "src/routes/user/[userId]/index.svelte": {
-    "file": "pages/user/_userId_/index.svelte-ad9a39ea.js",
+    "file": "pages/user/_userId_/index.svelte-4cf6e596.js",
     "src": "src/routes/user/[userId]/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -614,7 +614,7 @@
       "_routing-689f9c1f.js",
       "_formatting-f0380eae.js",
       "_paths-396f020f.js",
-      "_ModCard-0bc16eb8.js",
+      "_ModCard-4c584b11.js",
       "_GuideCard-3a89458e.js",
       "_user-aa766597.js",
       "_stores-b24fbbcb.js",
@@ -623,7 +623,7 @@
       "_navigation-fe373893.js",
       "_singletons-d1fb5791.js",
       "_launcher-83e1142f.js",
-      "_OutdatedBanner-187ee946.js"
+      "_CompatibilityButton-d290643c.js"
     ]
   },
   "_extras-71f1917d.js": {
@@ -795,20 +795,19 @@
       "_extras-71f1917d.js"
     ]
   },
-  "_ModCard-0bc16eb8.js": {
-    "file": "chunks/ModCard-0bc16eb8.js",
+  "_ModCard-4c584b11.js": {
+    "file": "chunks/ModCard-4c584b11.js",
     "imports": [
       "_vendor-71586dff.js",
       "_paths-396f020f.js",
       "_FicsitCard-7d9781f6.js",
       "_launcher-83e1142f.js",
       "_formatting-f0380eae.js",
-      "_OutdatedBanner-187ee946.js",
-      "_graphql-587ea9ba.js"
+      "_CompatibilityButton-d290643c.js"
     ]
   },
-  "_OutdatedBanner-187ee946.js": {
-    "file": "chunks/OutdatedBanner-187ee946.js",
+  "_CompatibilityButton-d290643c.js": {
+    "file": "chunks/CompatibilityButton-d290643c.js",
     "imports": [
       "_vendor-71586dff.js",
       "_graphql-587ea9ba.js"
