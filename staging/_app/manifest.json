@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "immutable/start-1d6d338b.js",
+    "file": "immutable/start-448201aa.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -65,7 +65,7 @@
       "src/lib/thirdparty/custom_protocol.ts"
     ],
     "css": [
-      "immutable/assets/pages/__layout.svelte-6f197ffe.css"
+      "immutable/assets/pages/__layout.svelte-e694f813.css"
     ]
   },
   ".svelte-kit/runtime/components/error.svelte": {
@@ -199,7 +199,7 @@
       "_paths-1c47712a.js"
     ],
     "css": [
-      "immutable/assets/pages/tos/index.svelte-1ae42d62.css"
+      "immutable/assets/pages/api-docs/index.svelte-1c1e4dfd.css"
     ]
   },
   "src/routes/guide/[guideId]/edit.svelte": {
@@ -532,7 +532,7 @@
       "_paths-1c47712a.js"
     ],
     "css": [
-      "immutable/assets/pages/tos/index.svelte-1ae42d62.css"
+      "immutable/assets/pages/api-docs/index.svelte-1c1e4dfd.css"
     ]
   },
   "src/routes/settings/index.svelte": {
@@ -599,7 +599,7 @@
       "_paths-1c47712a.js"
     ],
     "css": [
-      "immutable/assets/pages/tos/index.svelte-1ae42d62.css"
+      "immutable/assets/pages/api-docs/index.svelte-1c1e4dfd.css"
     ]
   },
   "src/routes/user/[userId]/index.svelte": {
@@ -718,7 +718,7 @@
       "_graphql-c174641c.js"
     ],
     "css": [
-      "immutable/assets/SMLVersionForm-1cc6d1a4.css"
+      "immutable/assets/GuideForm-81c8f5a1.css"
     ]
   },
   "_forms-d082c50e.js": {
@@ -754,7 +754,7 @@
       "_markdown-6a2ff7f0.js"
     ],
     "css": [
-      "immutable/assets/SMLVersionForm-1cc6d1a4.css"
+      "immutable/assets/GuideForm-81c8f5a1.css"
     ]
   },
   "_gql-ab61d814.js": {
@@ -823,7 +823,7 @@
       "_ModCompatibilityEdit-8bf9139b.js"
     ],
     "css": [
-      "immutable/assets/SMLVersionForm-1cc6d1a4.css"
+      "immutable/assets/GuideForm-81c8f5a1.css"
     ]
   },
   "_ModCompatibilityEdit-8bf9139b.js": {
@@ -847,7 +847,7 @@
       "_formatting-b1e7d458.js"
     ],
     "css": [
-      "immutable/assets/SMLVersionForm-1cc6d1a4.css"
+      "immutable/assets/GuideForm-81c8f5a1.css"
     ]
   },
   "src/lib/thirdparty/custom_protocol.ts": {
